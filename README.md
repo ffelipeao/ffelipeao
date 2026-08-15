@@ -22,9 +22,8 @@
 - ✅ Information Security Foundation – ISO/IEC 27001 (ISFS)
 - ✅ DevOps
   
-<!--
 ## 📫 Contato
 - [LinkedIn](https://linkedin.com/in/ffelipeao)  
 - [Lattes](https://lattes.cnpq.br/0510166925160914)
 - [ORCID](https://orcid.org/0000-0003-4011-3504)
--->
+
