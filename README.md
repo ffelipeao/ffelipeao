@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Felipe Alves  
 
 🎓 Mestre em Sistemas e Computação (IME)  
-💻 Analista Sênior Web na Central IT  
+💻 Analista Desenvolvedor Sênior na Central IT  
 👨‍🏫 Professor na Estácio de Sá  
 
 ## Sobre mim
