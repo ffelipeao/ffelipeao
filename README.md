@@ -13,43 +13,144 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Mestre em Sistemas e Computação (IME)
-- 💼 Analista Desenvolvedor Sênior na Central IT
-- 👨‍🏫 Professor na Estácio de Sá
-- ❤️ Apaixonado por tecnologia, sistemas distribuídos e desenvolvimento web
-- 🗄️ Experiência em bancos de dados, backend e integração de sistemas
-- 🌱 Sempre aprendendo e compartilhando conhecimento (muito do que construo vira material de aula)
+<p align="center">
+  <img src="assets/sobre-mim.svg" alt="Card: Felipe Alves, Mestre em Sistemas e Computação (IME), Analista Desenvolvedor Sênior na Central IT, Professor na Estácio de Sá" width="800" />
+</p>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| [**VisionHub**](https://github.com/ffelipeao/VisionHub) | Player desktop para câmeras de segurança via RTSP: mosaico 2×2, zoom por câmera, tela cheia e controle de áudio/volume por canal. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**JaWiki.ai**](https://github.com/ffelipeao/JaWiki.ai) | Projeto de IA em Python. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**MRAR_plus**](https://github.com/ffelipeao/MRAR_plus) | Algoritmo de mineração de regras de associação multirrelação em datasets da Web de Dados (origem acadêmica, mestrado). | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) |
-| [**parking-control**](https://github.com/ffelipeao/parking-control) | API REST de controle de estacionamento: Spring MVC, Spring Data JPA, Validation, paginação e CRUD completo. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
-| [**reconhecimento_facial**](https://github.com/ffelipeao/reconhecimento_facial) | Experimentos de reconhecimento facial com Python. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**Importa-planilha-postgresql**](https://github.com/ffelipeao/Importa-planilha-postgresql) | Lê uma planilha, cria a tabela e importa os dados automaticamente no PostgreSQL. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| [**conversor-de-imagens-para-webp**](https://github.com/ffelipeao/conversor-de-imagens-para-webp) | Converte imagens JPG para WEBP. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**gerar_grafico_zonation**](https://github.com/ffelipeao/gerar_grafico_zonation) | Lê planilhas de features do Zonation e gera gráficos de linha por alvo de conservação. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**chat_gemini**](https://github.com/ffelipeao/chat_gemini) · [**ollama_py**](https://github.com/ffelipeao/ollama_py) · [**agente_ia_reg**](https://github.com/ffelipeao/agente_ia_reg) | Chat e agentes de IA com LLMs (Gemini e Ollama local). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**rpa_web**](https://github.com/ffelipeao/rpa_web) | Automação de tarefas web (RPA). | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**react-native-login**](https://github.com/ffelipeao/react-native-login) · [**appLoginFirebase**](https://github.com/ffelipeao/appLoginFirebase) | Apps mobile com login via Expo e Firebase. | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+> Clique em uma tecnologia para expandir os projetos.
+
+<details open>
+<summary><b>Python</b> &nbsp;·&nbsp; 5 projetos</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/VisionHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=VisionHub&theme=dark&hide_border=true&border_radius=12" alt="VisionHub" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/rpa_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=rpa_web&theme=dark&hide_border=true&border_radius=12" alt="rpa_web" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/reconhecimento_facial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=reconhecimento_facial&theme=dark&hide_border=true&border_radius=12" alt="reconhecimento_facial" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/conversor-de-imagens-para-webp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=conversor-de-imagens-para-webp&theme=dark&hide_border=true&border_radius=12" alt="conversor-de-imagens-para-webp" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/gerar_grafico_zonation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=gerar_grafico_zonation&theme=dark&hide_border=true&border_radius=12" alt="gerar_grafico_zonation" /></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>IA & LLMs</b> &nbsp;·&nbsp; 4 projetos</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/JaWiki.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=JaWiki.ai&theme=dark&hide_border=true&border_radius=12" alt="JaWiki.ai" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/chat_gemini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=chat_gemini&theme=dark&hide_border=true&border_radius=12" alt="chat_gemini" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/ollama_py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=ollama_py&theme=dark&hide_border=true&border_radius=12" alt="ollama_py" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/agente_ia_reg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=agente_ia_reg&theme=dark&hide_border=true&border_radius=12" alt="agente_ia_reg" /></a></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Dados & Big Data</b> &nbsp;·&nbsp; 3 projetos</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/MRAR_plus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=MRAR_plus&theme=dark&hide_border=true&border_radius=12" alt="MRAR_plus" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/Importa-planilha-postgresql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=Importa-planilha-postgresql&theme=dark&hide_border=true&border_radius=12" alt="Importa-planilha-postgresql" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/aula_top_bigdata_python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=aula_top_bigdata_python&theme=dark&hide_border=true&border_radius=12" alt="aula_top_bigdata_python" /></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Java & Spring Boot</b> &nbsp;·&nbsp; 1 projeto</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/parking-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=parking-control&theme=dark&hide_border=true&border_radius=12" alt="parking-control" /></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>JavaScript & Mobile</b> &nbsp;·&nbsp; 4 projetos</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/react-native-login"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=react-native-login&theme=dark&hide_border=true&border_radius=12" alt="react-native-login" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/appLoginFirebase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=appLoginFirebase&theme=dark&hide_border=true&border_radius=12" alt="appLoginFirebase" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/appLojaSQlite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=appLojaSQlite&theme=dark&hide_border=true&border_radius=12" alt="appLojaSQlite" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/appGrafico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=appGrafico&theme=dark&hide_border=true&border_radius=12" alt="appGrafico" /></a></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>PHP & Laravel</b> &nbsp;·&nbsp; 4 projetos</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/aula_dev_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=aula_dev_web&theme=dark&hide_border=true&border_radius=12" alt="aula_dev_web" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/sis_crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=sis_crud&theme=dark&hide_border=true&border_radius=12" alt="sis_crud" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/cursoLaravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=cursoLaravel&theme=dark&hide_border=true&border_radius=12" alt="cursoLaravel" /></a></td>
+<td width="50%"><a href="https://github.com/ffelipeao/php_basico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=php_basico&theme=dark&hide_border=true&border_radius=12" alt="php_basico" /></a></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>C++ & Arduino</b> &nbsp;·&nbsp; 1 projeto</summary>
+<br>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ffelipeao/aula_arduino_python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ffelipeao&repo=aula_arduino_python&theme=dark&hide_border=true&border_radius=12" alt="aula_arduino_python" /></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</details>
 
 ### 📚 Material didático
 Repositórios criados para minhas aulas, abertos para quem quiser estudar:
-[Desenvolvimento Web (PHP, CSS, JS, BD)](https://github.com/ffelipeao/aula_dev_web) ·
+[Desenvolvimento Web](https://github.com/ffelipeao/aula_dev_web) ·
 [Big Data com Python](https://github.com/ffelipeao/aula_top_bigdata_python) ·
 [React Native](https://github.com/ffelipeao/aula_react_native) ·
 [Arduino + Python](https://github.com/ffelipeao/aula_arduino_python) ·
 [Computação em Nuvem](https://github.com/ffelipeao/comp_nuvem) ·
 [Laravel](https://github.com/ffelipeao/cursoLaravel) ·
-[PHP básico](https://github.com/ffelipeao/php_basico) ·
 [Introdução ao Python](https://github.com/ffelipeao/Introducao_python)
+
+Veja todos os repositórios: [github.com/ffelipeao?tab=repositories](https://github.com/ffelipeao?tab=repositories)
 
 ---
 

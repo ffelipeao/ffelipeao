@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="t d">
+  <title id="t">Sobre Felipe Alves</title>
+  <desc id="d">Mestre em Sistemas e Computação, Analista Desenvolvedor Sênior e Professor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .eyebrow { font-size: 12px; letter-spacing: 3px; fill: #38bdf8; }
+      .name { font-size: 34px; font-weight: 700; fill: #f8fafc; }
+      .label { font-size: 11px; letter-spacing: 2px; fill: #94a3b8; }
+      .value { font-size: 15px; font-weight: 600; fill: #e2e8f0; }
+      .quote { font-size: 14px; fill: #cbd5e1; }
+      .bar { transform-origin: 0 0; animation: grow 1.2s ease-out both; }
+      .fade { animation: fade .9s ease-out both; }
+      .d1 { animation-delay: .2s } .d2 { animation-delay: .5s } .d3 { animation-delay: .8s } .d4 { animation-delay: 1.1s }
+      .glow { animation: pulse 4s ease-in-out infinite; }
+      @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+      @keyframes pulse { 0%,100% { opacity: .25 } 50% { opacity: .6 } }
+    </style>
+  </defs>
+
+  <rect width="800" height="300" rx="16" fill="url(#bg)"/>
+  <circle class="glow" cx="720" cy="40" r="90" fill="#38bdf8" opacity=".3"/>
+  <circle class="glow" cx="780" cy="280" r="70" fill="#818cf8" opacity=".3"/>
+
+  <text x="40" y="52" class="eyebrow fade">SOBRE MIM</text>
+  <text x="40" y="94" class="name fade d1">Felipe Alves</text>
+  <rect class="bar" x="40" y="108" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g class="fade d2">
+    <text x="40" y="150" class="label">FORMAÇÃO</text>
+    <text x="40" y="172" class="value">Mestre em Sistemas e Computação (IME)</text>
+    <text x="440" y="150" class="label">ATUAÇÃO</text>
+    <text x="440" y="172" class="value">Analista Desenvolvedor Sênior, Central IT</text>
+  </g>
+  <g class="fade d3">
+    <text x="40" y="212" class="label">DOCÊNCIA</text>
+    <text x="40" y="234" class="value">Professor na Estácio de Sá</text>
+    <text x="440" y="212" class="label">FOCO</text>
+    <text x="440" y="234" class="value">Backend, bancos de dados e integração</text>
+  </g>
+  <text x="40" y="274" class="quote fade d4">Sistemas distribuídos, desenvolvimento web e aprendizado contínuo.</text>
+</svg>
